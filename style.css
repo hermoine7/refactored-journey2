@@ -1,0 +1,17 @@
+.grid{
+  background-color:#abdfff;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 15 px;
+}
+.menu {
+  color: white;
+
+}
+.header{
+  background-color: aquamarine;
+}
+.item{
+  background-color: blueviolet;
+}
